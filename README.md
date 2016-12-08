@@ -6,4 +6,7 @@ https://www.coursera.org/learn/ml-foundations/home/week/1
 
 * To learn how to download files from GitHub, please visit this website
  http://blog.pulipuli.info/2016/05/github-how-to-download-files-in-github.html
+ 
+* To learn how to use Pandas, watch this video 
+ https://www.youtube.com/watch?v=bkN8SsrKOhE
 * Is FF VII the coolest video game that Square Enix Holdings Co. ever made? Without a doubt: It is.
