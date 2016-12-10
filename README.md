@@ -9,4 +9,6 @@ https://www.coursera.org/learn/ml-foundations/home/week/1
  
 * To learn how to use Pandas, watch this video 
  https://www.youtube.com/watch?v=bkN8SsrKOhE
+ and visit this website
+ https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.TXdgQOU
 * Is FF VII the coolest video game that Square Enix Holdings Co. ever made? Without a doubt: It is.
